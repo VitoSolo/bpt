@@ -1,0 +1,13 @@
+# Ignore generated files
+*~
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.autosave
+
+# Ignore IDE-specific files
+*.vscode/
+
+# Ignore the "_archive" directory
+_archive/
