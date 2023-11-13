@@ -2,10 +2,12 @@
     "name": "bpt",
     "version": "1.0.3",
     "description": "Static website for BPT",
-    "main": "index.html",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/VitoSolo/bpt.git"
-    }
+  "scripts": {
+    "push": "git push -u origin main"
   }
+}
+
+
+
+
   
