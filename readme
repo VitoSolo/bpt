@@ -1,6 +1,6 @@
-{
-    "name": "bpt",
-    "version": "1.0.3",
-    "description": "Static website for BPT"
-}
+name: bpt
+version: 1.0.3
+description: "Static website for BPT"
+---
 
+# BPT 
