@@ -1917,7 +1917,18 @@
     .notification-top-bar p a {
         color: #FFF;
         text-decoration: underline;
-    }    
+    }
+/* Misc */  
+    #forms {
+        background-color: #fffff1;
+        padding-bottom: 18px;
+    }     
+    #break{
+        background-color: #817e7d;
+        height: 5em;
+        vertical-align: middle;
+    } 
+    #more {background-color: #f7fbf2;}
 
 /* Button */
 
