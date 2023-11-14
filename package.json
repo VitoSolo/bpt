@@ -1,9 +1,0 @@
-{
-    "name": "bpt",
-    "version": "1.0.3",
-    "description": "Static website for BPT",
-  "scripts": {
-    "push": "git push -u origin main"
-  }
-}
-
