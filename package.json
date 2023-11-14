@@ -3,12 +3,8 @@
     "version": "1.0.3",
     "description": "Static website for BPT",
   "scripts": {
-    "build": "rm -rf dist && mkdir dist && cp -r ./* dist/",
+    "build": "rm -rf dist && mkdir dist && cp -r --exclude 'dist' ./* dist/",
     "push": "git push -u origin main"
   }
 }
 
-
-
-
-  
