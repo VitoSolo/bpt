@@ -3,7 +3,7 @@
     "version": "1.0.3",
     "description": "Static website for BPT",
   "scripts": {
-    "build": "rm -rf dist && mkdir dist && cp -r ./* dist/!(_archive|.gitignore|package.json)",
+    "build": "rm -rf dist && mkdir dist && cp -r ./* dist/",
     "push": "git push -u origin main"
   }
 }
