@@ -3,7 +3,6 @@
     "version": "1.0.3",
     "description": "Static website for BPT",
   "scripts": {
-    "build":"rm -rf dist && mkdir dist && find . -type f -not -path '*/dist/*' -exec cp '{}' dist/ '{}' ';'",
     "push": "git push -u origin main"
   }
 }
